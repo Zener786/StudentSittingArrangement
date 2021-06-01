@@ -8,7 +8,7 @@ import java.util.LinkedList;
 
 
 
-//This is the project for Seating arrangement using Graph-coloring method
+//This is the project for Seating arrangement using Graph--coloring method
 
 
 class initializeSeats
