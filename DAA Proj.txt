@@ -4,6 +4,13 @@ import java.util.Arrays;
 import java.util.Iterator;
 import java.util.LinkedList;
 
+
+
+
+
+//This is the project for Seating arrangement using Graph-coloring method
+
+
 class initializeSeats
 {
   static String[][][] FinalSeat=new String[100][100][100];
